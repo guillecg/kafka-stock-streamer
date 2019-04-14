@@ -1,0 +1,12 @@
+# Datasets
+https://www.quora.com/Where-can-I-find-public-or-free-real-time-or-streaming-data-sources
+
+# Crypto-bots
+https://bravenewcoin.com/insights/cryptocurrency-trading-bots
+https://www.cryptoblizz.com/
+https://www.cryptohopper.com/
+https://bitcoinexchangeguide.com/best-bitcoin-trading-bots/
+
+# IEX data and API
+https://github.com/addisonlynch/iexfinance
+https://iextrading.com/developer/docs/#unofficial-libraries-and-integrations
