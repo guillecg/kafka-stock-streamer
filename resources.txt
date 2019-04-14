@@ -1,5 +1,6 @@
 # Datasets
 https://www.quora.com/Where-can-I-find-public-or-free-real-time-or-streaming-data-sources
+https://medium.com/@coreyauger/part-2-building-an-analysis-platform-480978fc61f2
 
 # Crypto-bots
 https://bravenewcoin.com/insights/cryptocurrency-trading-bots
@@ -10,3 +11,8 @@ https://bitcoinexchangeguide.com/best-bitcoin-trading-bots/
 # IEX data and API
 https://github.com/addisonlynch/iexfinance
 https://iextrading.com/developer/docs/#unofficial-libraries-and-integrations
+
+# Kafka examples
+https://dzone.com/articles/real-time-stock-processing-with-apache-nifi-and-ap
+https://medium.com/@coreyauger/part-2-building-an-analysis-platform-480978fc61f2
+https://medium.freecodecamp.org/simple-chatops-with-kafka-grafana-prometheus-and-slack-764ece59e707
