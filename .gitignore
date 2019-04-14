@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data folder
+data/
+
+# Config
+config/
+
+# Docker
+docker/
