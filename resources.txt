@@ -12,6 +12,9 @@ https://bitcoinexchangeguide.com/best-bitcoin-trading-bots/
 https://github.com/addisonlynch/iexfinance
 https://iextrading.com/developer/docs/#unofficial-libraries-and-integrations
 
+# Stock prediction
+https://towardsdatascience.com/predicting-stock-prices-with-python-ec1d0c9bece1
+
 # Kafka examples
 https://dzone.com/articles/real-time-stock-processing-with-apache-nifi-and-ap
 https://medium.com/@coreyauger/part-2-building-an-analysis-platform-480978fc61f2
